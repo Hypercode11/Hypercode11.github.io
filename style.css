@@ -250,7 +250,7 @@ div.aboutimg {
 .w3-2021-buttercream
 {
   color:#000;
-  background-color:#f8dbc2;
+  background-color: #f8dbc2;
   }
 h1.projects{
     color: #00ccff;
@@ -260,4 +260,6 @@ h1.projects{
            float: center; 
            font-family: 'Comfortaa', cursive;
   color: #636363;
+}div.projectsimg{
+  border-radius: 35px;
 }
